@@ -1,4 +1,3 @@
-import React from 'react';
 import { useDispatch } from 'react-redux';
 import { useAppSelector, useAppDispatch } from '../hooks';
 import { increment, decrement } from '../reducers/counterSlice';
